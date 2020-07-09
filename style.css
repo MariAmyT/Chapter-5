@@ -16,8 +16,8 @@
 		.text {
 			font-size: 18px;
 			color: grey;
-/*			text-align: justify;
- 			text-justify: inter-word;*/
+			text-align: justify;
+ 			text-justify: inter-word;
  			margin: 30px;
 		}
 
